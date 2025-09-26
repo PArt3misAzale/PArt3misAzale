@@ -9,6 +9,11 @@ I always tried to make games but I couldn't focus. I'm now in a project and my o
 # Project
 I'm currently creating a plateformer game using Godot since the 23.09.2025
 
+# Contact me
+- Discord : part3mis_azale (PArt3mis)
+- Instagram: part3mis_azale (PArt3mis)
+- University email: thomas.martin7@etu.univ-orleans.fr
+
 ## Some tools i have learned
 ### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
